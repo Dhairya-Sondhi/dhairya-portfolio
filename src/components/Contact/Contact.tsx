@@ -123,17 +123,6 @@ const Contact = () => {
                       <span>LinkedIn</span>
                     </motion.a>
 
-                    <motion.a
-                      href={SOCIAL_LINKS.twitter}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className={styles.socialLink}
-                      whileHover={{ scale: 1.1 }}
-                      whileTap={{ scale: 0.9 }}
-                    >
-                      <FiTwitter />
-                      <span>Twitter</span>
-                    </motion.a>
                   </div>
                 </div>
               </div>
