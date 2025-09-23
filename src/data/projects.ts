@@ -38,11 +38,11 @@ export const projects: Project[] = [
   },
   {
     id: '4',
-    title: 'ML Financial Modeling Suite',
+    title: 'Reliance Industries Financial Dashboard',
     description: 'Comprehensive financial analysis platform with ML-powered forecasting, automated DCF modeling, and intelligent risk assessment. Includes real-time data pipelines, scenario analysis, and interactive dashboards.',
     technologies: ['Python', 'Scikit-learn', 'Tableau', 'SQL', 'Pandas', 'NumPy', 'Yahoo Finance API'],
-    image: '/images/projects/ml-financial-suite.jpeg',
-    githubUrl: 'https://github.com/dhairya-sondhi/ml-financial-modeling',
+    image: '/images/projects/ml-financial-suite.jpg',
+    githubUrl: 'https://github.com/Dhairya-Sondhi/reliance-financial-dashboard',
     featured: true,
     type: 'development',
     category: ['ai', 'data']
